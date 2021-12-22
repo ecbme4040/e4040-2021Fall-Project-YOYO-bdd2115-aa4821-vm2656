@@ -4,7 +4,6 @@ Drive link to the trained models : https://drive.google.com/drive/folders/1af795
 
 # Project tree
 
- * [tree-md](./tree-md)
  * [CIFAR-10](./CIFAR-10)
    * [cifar_10_batch_size_32.ipynb](./CIFAR-10/cifar_10_batch_size_32.ipynb)
    * [cifar_10_batch_size_64.ipynb](./CIFAR-10/cifar_10_batch_size_64.ipynb)
