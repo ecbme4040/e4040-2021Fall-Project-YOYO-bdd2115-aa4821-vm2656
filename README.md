@@ -20,6 +20,9 @@ The folder /table contains the table comparing the performance of different netw
    * [cifar_100_batch_size_32.ipynb](./CIFAR-100/cifar_100_batch_size_32.ipynb)
    * [cifar_100_batch_size_64.ipynb](./CIFAR-100/cifar_100_batch_size_64.ipynb)
    
+ * [ImageNet](./ImageNet)
+   * [tiny_imagenet.ipynb](./ImageNet/tiny_imagenet.ipynb)
+   
  * [table](./table)
    * [Table.PNG](./table/Table.PNG)
  
