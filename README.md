@@ -34,4 +34,4 @@ The folder /architecture contains the architecture of the attention module and t
    * [attention_module_block.PNG](./architecture/attention_module_block.PNG)
    * [mask_branch.PNG](./architecture/mask_branch.PNG)
  
- * [E4040.2021FALL.YOYO.report.aa4821.bdd2115.vm2656.docx](./E4040.2021FALL.YOYO.report.aa4821.bdd2115.vm2656.docx)
+ * [E4040.2021FALL.YOYO.report.aa4821.bdd2115.vm2656.pdf](./E4040.2021FALL.YOYO.report.aa4821.bdd2115.vm2656.pdf)
