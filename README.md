@@ -19,4 +19,8 @@ The folder /table contains the table comparing the performance of different netw
  * [CIFAR-100](./CIFAR-100)
    * [cifar_100_batch_size_32.ipynb](./CIFAR-100/cifar_100_batch_size_32.ipynb)
    * [cifar_100_batch_size_64.ipynb](./CIFAR-100/cifar_100_batch_size_64.ipynb)
+   
+ * [table](./table)
+   * [Table.PNG](./table/Table.PNG)
+ 
  * [E4040.2021FALL.YOYO.report.aa4821.bdd2115.vm2656.docx](./E4040.2021FALL.YOYO.report.aa4821.bdd2115.vm2656.docx)
